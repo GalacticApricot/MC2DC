@@ -16,6 +16,32 @@ Simple python websocket message and whisper logger from minecraft bedrock to dis
 
 `python3.2 or higher`
 
+**How To Set Up:**
+
+Step 1:
+    
+    Download MC2DC as a zip file and extract it
+    
+    Make sure python is up to date
+    
+    Make sure all the required libraries are installed and up to date (can be done manually or by running install.bat)
+
+Step 2:
+
+    Open main.py
+    
+    Set url on line 33 to the url of the discord webhook you want to post to
+    
+    Set ip on line 36 to the ip/url/uri of your websocket, or leave as is if being hosted localy
+    
+    Set port on line 39 to the port you want to host it to, or leave as is if being hosted localy
+    
+    
+**How To Run:**
+
+After setting up, use start.bat or run manually
+    
+
 **How To Connect On PC:**
 
 For local connections:
