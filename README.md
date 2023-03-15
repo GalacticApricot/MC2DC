@@ -39,7 +39,9 @@ Step 2:
     
 **How To Run:**
 
-After setting up, use start.bat or run manually
+After setting up:
+
+    use start.bat or run manually
     
 
 **How To Connect On PC:**
