@@ -1,4 +1,4 @@
-# MC2DC
+# MCCHAT2DC
 Simple python websocket message and whisper logger from minecraft bedrock to discord
 
 **Log all whispers and messages from your minecraft bedrock world/realm directly to your discord webhook**
